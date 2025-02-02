@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+.next/
+.env*.local
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 上传文件目录
+backend/uploads/
